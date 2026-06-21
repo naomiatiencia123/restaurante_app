@@ -1,4 +1,4 @@
-Nombre: Jamie Naomi Atiencia Vasquez
-Este sistema fue desarrollado para gestionar de manera básica un restaurante. Permite registrar productos del menú, agregar clientes y realizar pedidos, mostrando al final la información registrada y el total de cada pedido.
-El proyecto está dividido en módulos para mantener el código organizado: modelos/producto.py: contiene la clase Producto. modelos/cliente.py: contiene la clase Cliente. servicios/restaurante.py: contiene la clase Restaurante, que administra los productos, clientes y pedidos. main.py: es el archivo principal donde se crean los objetos y se ejecuta el programa.
-La modularización es importante porque ayuda a mantener el código ordenado y fácil de entender. Además, separar las responsabilidades en diferentes archivos facilita el mantenimiento y permite realizar cambios sin afectar todo el sistema.
+Nombre: Jamie Naomi Atiencia Vasquez. 
+1. Este sistema fue desarrollado para gestionar de manera básica un restaurante. Permite registrar productos del menú, agregar clientes y realizar pedidos, mostrando al final la información registrada y el total de cada pedido.
+2. El proyecto está dividido en módulos para mantener el código organizado: modelos/producto.py: contiene la clase Producto. modelos/cliente.py: contiene la clase Cliente. servicios/restaurante.py: contiene la clase Restaurante, que administra los productos, clientes y pedidos. main.py: es el archivo principal donde se crean los objetos y se ejecuta el programa.
+3. La modularización es importante porque ayuda a mantener el código ordenado y fácil de entender. Además, separar las responsabilidades en diferentes archivos facilita el mantenimiento y permite realizar cambios sin afectar todo el sistema.
